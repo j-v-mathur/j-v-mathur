@@ -7,7 +7,8 @@
 📡 Fluent in REST APIs, Docker spells, and caffeine-fueled debugging marathons.
 
 ### 🧠 Languages & Tools:
-- Python | JavaScript
+- Python | JavaScript |
+- DSA
 - Flask | Fast-API | Pandas | Scikit-Learn
 - Docker | Git | REST APIs
 - DevOps | CI/CD pipelines
